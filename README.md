@@ -58,5 +58,26 @@ It covers **core Django**, **REST APIs**, **advanced backend topics**, **securit
 
 ---
 
-## 📂 Repo Structure (Planned)
+
+---
+
+## 📚 Resources I Use
+
+- 🔗 [Django Official Docs](https://docs.djangoproject.com/en/stable/)
+- 🔗 [DRF Docs](https://www.django-rest-framework.org/)
+- 🎥 [Dennis Ivy YouTube](https://www.youtube.com/c/DennisIvy)
+- 📘 *Django for Beginners* – William Vincent
+- 🧠 [Real Python Tutorials](https://realpython.com/tutorials/django/)
+
+---
+
+## ✍️ Author
+
+**AB3L4** (Abel Mekuriya)  
+👨‍💻 Self-taught Django Developer | Cybersecurity Enthusiast  
+🔗 [GitHub](https://github.com/Nom3o) | [LinkedIn](https://linkedin.com/in/abel-mekuriya-b405a0236) | 📧 b3lar00s@gmail.com
+
+---
+
+
 
