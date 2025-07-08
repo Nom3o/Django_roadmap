@@ -51,8 +51,8 @@ It covers **core Django**, **REST APIs**, **advanced backend topics**, **securit
 
 - 💻 **Language**: Python
 - 🔧 **Framework**: Django, Django REST Framework
-- 🛠️ **Tools**: VS Code, Git, Postman
-- ☁️ **Deployment**: Render, Railway, Heroku (planned)
+- 🛠️ **Tools**: VS Code, Git, Postman (i will learn this also)
+- ☁️ **Deployment**: (not decided yet)
 - 🧪 **Testing**: Django TestCase, DRF APIClient
 - 🔐 **Security**: CSRF, JWT, `.env`, Signals
 
