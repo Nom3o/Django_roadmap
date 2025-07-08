@@ -7,7 +7,7 @@
   <img src="https://img.shields.io/badge/Django-Framework-blue.svg" />
   <img src="https://img.shields.io/badge/Level-Beginner--to--Pro-success" />
   <img src="https://img.shields.io/badge/Maintained%3F-Yes-brightgreen.svg" />
-  <img src="https://img.shields.io/github/license/your-username/django-roadmap" />
+ 
 </p>
 
 ---
