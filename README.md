@@ -25,10 +25,18 @@ It covers **core Django**, **REST APIs**, **advanced backend topics**, **securit
 
 | Phase | Topics | Project |
 |-------|--------|---------|
-| 1️⃣ Basics | Python, Django Setup, CRUD, Templates | Notes App / Blog |
+| 1️⃣ Basics | Python, Django Setup, CRUD, Templates | Notes App |
 | 2️⃣ APIs | Django REST Framework, Auth, Permissions | Task API |
 | 3️⃣ Advanced | Signals, Custom Auth, Testing, Async | Blog with API & Auth |
 | 4️⃣ Pro Stuff | Security, Env Vars, Caching, Docker | Deployed Full App |
+
+---
+## Project Tracker
+
+- [ ] Notes App
+- [ ] Task API
+- [ ] Blog with API & Auth 
+- [ ] Deployed Full App
 
 ---
 
