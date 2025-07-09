@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 <h1 align="center">🚀 Django Developer Roadmap</h1>
 <p align="center">
   A complete, self-paced learning journey to become a professional Django Backend Developer.
@@ -83,4 +83,3 @@ It covers **core Django**, **REST APIs**, **advanced backend topics**, **securit
 
 
 =======
->>>>>>> a93a3ef (Save local changes to README)
