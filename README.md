@@ -16,7 +16,6 @@
 This roadmap is my personal journey from beginner to job-ready Django backend developer.  
 It covers **core Django**, **REST APIs**, **advanced backend topics**, **security**, and **deployment** — the full backend stack, with real projects at every stage.
 
-> ✨ _Built with discipline, passion, and a dream to become one of the top devs in Africa._
 
 ---
 
