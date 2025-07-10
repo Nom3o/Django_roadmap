@@ -38,20 +38,21 @@ It covers **core Django**, **REST APIs**, **advanced backend topics**, **securit
 - [ ] 🚀 Deployed Full App
 
 ---
+## ✅ **Progress Tracker**
 
-## ✅ Progress Tracker
-
-- [x] ✅ Python Refresher  
-- [ ] 🏗️ Django Installation & Project Structure  
-- [ ] 🔀 URL Routing & Views  
-- [ ] 💾 Django ORM & CRUD  
-- [ ] 🌐 DRF Setup  
-- [ ] 🔐 Token Auth / JWT  
-- [ ] ⚙️ Permissions / Throttling  
-- [ ] 👤 Custom User Model  
-- [ ] 🧪 Testing & Async Tasks  
-- [ ] 🐳 Docker & Deployment  
-
+- [ ] Phase 1: Django Basics
+  - [ ] Python refresher
+  - [ ] Django setup
+  - [ ] Notes App complete
+- [ ] Phase 2: APIs
+  - [ ] DRF fundamentals
+  - [ ] Task API complete
+- [ ] Phase 3: Advanced
+  - [ ] Custom user model
+  - [ ] Blog project complete
+- [ ] Phase 4: Deployment
+  - [ ] Docker setup
+  - [ ] App deployed
 ---
 
 ## 🧰 Tech Stack
