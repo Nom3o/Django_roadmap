@@ -40,10 +40,10 @@ It covers **core Django**, **REST APIs**, **advanced backend topics**, **securit
 ---
 ## ✅ **Progress Tracker**
 
-- [ ] Phase 1: Django Basics
-  - [ ] Python refresher
-  - [ ] Django setup
-  - [ ] Notes App complete
+- [x] Phase 1: Django Basics
+  - [x] Python refresher
+  - [x] Django setup
+  - [x] Notes App complete
 - [ ] Phase 2: APIs
   - [ ] DRF fundamentals
   - [ ] Task API complete
