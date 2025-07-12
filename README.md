@@ -32,7 +32,7 @@ It covers **core Django**, **REST APIs**, **advanced backend topics**, **securit
 
 ## 📁 Project Tracker
 
-- [ ] 🗒️ Notes App
+- [x] 🗒️ Notes App
 - [ ] ✅ Task API
 - [ ] 📰 Blog with API & Auth 
 - [ ] 🚀 Deployed Full App
