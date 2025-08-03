@@ -74,10 +74,3 @@ It covers **core Django**, **REST APIs**, **advanced backend topics**, **securit
 - 🧠 [Real Python Tutorials](https://realpython.com/tutorials/django/)  
 
 ---
-
-## ✍️ Author
-
- *(Abel Mekuriya)*  
-🔗 [GitHub](https://github.com/Nom3o) | [LinkedIn](https://linkedin.com/in/abel-mekuriya-b405a0236) | 📧 b3lar00s@gmail.com  
-
----
